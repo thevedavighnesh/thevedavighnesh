@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Veda Vighnesh
+#  Hi, I'm Veda Vighnesh
 **A passionate student with interest in Machine Learning and Web Development**
 
 Email Me 👉 ✉️ **vighnesh.akkana@gmail.com**
