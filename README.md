@@ -1,3 +1,11 @@
+# 💫 Hi 👋, I'm Veda Vighnesh
+**A passionate student with interest in Machine Learning and Web Development**
+
+Email Me 👉 ✉️ **vighnesh.akkana@gmail.com**
+
+- 🌱 **I’m currently learning:** Machine Learning
+- 👯 **I’m looking to work on internships on Web development and AI/ML
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thevedavighnesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Veda Vighnesh Akkana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vighnesh.akkana@gmail.com) 
